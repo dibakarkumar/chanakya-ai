@@ -1,0 +1,50 @@
+# Week 1 Phase 1 - Core MVP Dependencies
+
+# LLM & AI Core
+ollama==0.0.1
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Voice & Audio
+openai-whisper==20231117
+sounddevice==0.4.6
+soundfile==0.12.1
+pyttsx3==2.90
+kokoroonnx==0.1.0
+NumPy==1.24.3
+SciPy==1.11.2
+
+# Wake Word Detection
+pvporcupine==3.0.0
+pvrecorder==1.2.0
+openwakeword==0.4.0
+
+# Memory & Storage
+chromadb==0.4.10
+sentence-transformers==2.2.2
+mem0ai==0.1.5
+cryptography==41.0.4
+
+# Database
+sqlite-utils==3.36.0
+
+# Web & Search
+duckduckgo-search==3.9.11
+requests==2.31.0
+beautifulsoup4==4.12.2
+wikipedia-api==1.0.0
+lxml==4.9.3
+
+# Desktop Automation
+pyautogui==0.9.53
+psutil==5.9.6
+pygetwindow==0.0.9
+
+# Utilities
+colorama==0.4.6
+click==8.1.7
+pydantic==2.4.2
+
+# Development
+ipython==8.16.0
+jupyter==1.0.0
