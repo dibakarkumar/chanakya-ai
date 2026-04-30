@@ -1,0 +1,15 @@
+# Week 2 - Memory System Requirements
+# Previous week requirements
+requests==2.31.0
+colorama==0.4.6
+ollama==0.1.0
+cryptography==41.0.7
+python-dotenv==1.0.0
+
+# Week 2 new requirements
+mem0ai==0.1.0
+chromadb==0.4.24
+sentence-transformers==2.2.2
+sqlalchemy==2.0.25
+pandas==2.1.4
+numpy==1.24.4

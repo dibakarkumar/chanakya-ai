@@ -1,0 +1,70 @@
+{
+  "personal_info": {
+    "name": "[Apna Naam Yahan Enter Karo]",
+    "age": "[Age]",
+    "city": "[City]",
+    "profession": "[Profession/Student]",
+    "education": "[Education Details]",
+    "phone": "[Phone - Optional]",
+    "language_preference": "Hinglish"
+  },
+  "health": {
+    "conditions": [],
+    "medications": [],
+    "allergies": [],
+    "blood_type": "[Blood Type]",
+    "emergency_contact": "[Name & Number]"
+  },
+  "work": {
+    "current_role": "[Job Title]",
+    "company": "[Company Name]",
+    "projects": [],
+    "skills": [],
+    "goals": []
+  },
+  "preferences": {
+    "voice_speed": 1.0,
+    "voice_pitch": 1.0,
+    "timezone": "IST",
+    "date_format": "DD-MM-YYYY",
+    "time_format": "24h",
+    "language": "Hinglish",
+    "confirmation_level": "medium"
+  },
+  "goals": [
+    {
+      "name": "[Goal Name]",
+      "category": "[fitness/study/work/health/personal]",
+      "frequency": "[daily/weekly/monthly]",
+      "target_date": "[YYYY-MM-DD]",
+      "status": "active"
+    }
+  ],
+  "important_dates": {
+    "birthday": "[YYYY-MM-DD]",
+    "anniversary": "[YYYY-MM-DD]",
+    "other_important_dates": {}
+  },
+  "contacts": {
+    "family": [],
+    "friends": [],
+    "work": []
+  },
+  "notes": [],
+  "schedule_preferences": {
+    "wake_time": "07:00",
+    "sleep_time": "23:00",
+    "workout_time": "06:30",
+    "work_hours_start": "09:00",
+    "work_hours_end": "18:00",
+    "break_time": "13:00"
+  },
+  "subscriptions_and_services": [
+    {
+      "name": "[Service Name]",
+      "cost": "[Cost]",
+      "renewal_date": "[YYYY-MM-DD]",
+      "login": "[Email/Username]"
+    }
+  ]
+}
